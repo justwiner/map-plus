@@ -1,0 +1,13 @@
+$appHeight: 5rem;
+
+.app-item {
+  height: $appHeight;
+  border-radius: 5px;
+  padding: 1rem;
+  box-shadow: 0 3px 6px -4px #0000001f, 0 6px 16px #00000014, 0 9px 28px 8px #0000000d;
+  margin-bottom: 1rem;
+}
+
+.app-container {
+  padding: 1rem;
+}
